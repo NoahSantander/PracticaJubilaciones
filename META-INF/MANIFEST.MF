@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Automatic-Module-Name: proyectoBase
+Automatic-Module-Name: PracticaJubilaciones
 Bundle-ManifestVersion: 2
-Bundle-Name: proyectoBase
+Bundle-Name: PracticaJubilaciones
 Bundle-Vendor: My Company
 Bundle-Version: 1.0.0.qualifier
-Bundle-SymbolicName: proyectoBase; singleton:=true
+Bundle-SymbolicName: PracticaJubilaciones; singleton:=true
 Bundle-ActivationPolicy: lazy
 Require-Bundle: com.ibm.icu,
  org.eclipse.xtext,
